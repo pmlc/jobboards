@@ -35,6 +35,8 @@ gem 'stripe', '~> 3.11'
 gem 'trix' 
 gem "figaro" 
 gem 'devise', '~> 4.4', '>= 4.4.3' 
+gem 'bootstrap', '~> 4.1', '>= 4.1.1'
+gem 'jquery-rails'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'

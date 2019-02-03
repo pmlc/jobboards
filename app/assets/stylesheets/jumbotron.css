@@ -1,0 +1,76 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+
+.all {
+    width: 150px;
+}
+
+
+.filter {
+    padding-left: 50px;
+}
+
+.about {
+    padding-top: 200px;
+}
+
+.card-img-top {
+    width: auto !important;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: none !important;
+    border-radius: 0.25rem;
+}
+
+.btnright {
+    margin-right: 10px;
+}
+
+
+
+.imageindex {
+    padding-right: 60px;
+}
+
+.index-image {
+
+
+}
+
+#home-heading {
+    padding-left: 14px;
+}
+
+.buttonlogin {
+
+     padding-left: 14px;
+} 
+
+.filterjob {
+    padding-left: 100px;
+}
+
+.imagedown {
+    padding-top: 27px;
+}
+
+.filterdescr {
+    padding-left: 50px;
+}
+
+.a:visited {
+    color: #fdf9f9 !important;
+}
